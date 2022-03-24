@@ -26,7 +26,7 @@ FILES
 Complete course notes
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 3.2MB]({{< baseurl >}}/resources/mit6_042jf10_notes))
+([PDF - 3.2MB]({{< baseurl >}}/resources/mit6_042jf10_notes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +41,7 @@ Complete course notes
 Chapter 1: Propositions
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap01))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -50,7 +50,7 @@ Chapter 1: Propositions
 Chapter 2: Patterns of proof
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap02))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +59,7 @@ Chapter 2: Patterns of proof
 Chapter 3: Induction
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap03))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +68,7 @@ Chapter 3: Induction
 Chapter 4: Number theory
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap04))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ Chapter 4: Number theory
 Chapter 5: Graph theory
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap05))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ Chapter 5: Graph theory
 Chapter 6: Directed graphs
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap06))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ Chapter 6: Directed graphs
 Chapter 7: Relations and partial orders
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap07))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap07))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Chapter 8: State machines
 Chapter 9: Sums and asymptotics
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap09))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +134,7 @@ Chapter 9: Sums and asymptotics
 Chapter 10: Recurrences
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap10))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +143,7 @@ Chapter 10: Recurrences
 Chapter 11: Cardinality rules
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap11))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +152,7 @@ Chapter 11: Cardinality rules
 Chapter 12: Generating functions
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap12))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +161,7 @@ Chapter 12: Generating functions
 Chapter 13: Infinite sets
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap13))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +176,7 @@ Chapter 13: Infinite sets
 Chapter 14: Events and probability spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap14))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +185,7 @@ Chapter 14: Events and probability spaces
 Chapter 15: Conditional probability
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap15))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +194,7 @@ Chapter 15: Conditional probability
 Chapter 16: Independence
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap16))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +203,7 @@ Chapter 16: Independence
 Chapter 17: Random variables and distributions
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap17))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap17))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +212,7 @@ Chapter 17: Random variables and distributions
 Chapter 18: Expectation
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap18))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +221,7 @@ Chapter 18: Expectation
 Chapter 19: Deviations
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap19))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap19))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +230,7 @@ Chapter 19: Deviations
 Chapter 20: Random walks
 {{< tdclose >}}
 {{< tdopen >}}
-([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF]({{< baseurl >}}/resources/mit6_042jf10_chap20))
+([PDF]({{< baseurl >}}/resources/mit6_042jf10_chap20))
 {{< tdclose >}}
 
 {{< trclose >}}
