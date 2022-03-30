@@ -9,7 +9,7 @@ Welcome to 6.042! In this course, we'll teach you some mathematics that we think
 Prerequisites
 -------------
 
-The only prerequisite is [18.01](/courses/18-01-single-variable-calculus-fall-2006/). If you have already taken [18.310](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/) or [6.046](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/), then you should not take 6.042.
+The only prerequisite is [18.01](/courses/18-01-single-variable-calculus-fall-2006). If you have already taken [18.310](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013) or [6.046](/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005), then you should not take 6.042.
 
 Course Meeting Times
 --------------------

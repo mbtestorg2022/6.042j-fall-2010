@@ -4,6 +4,7 @@ description: 'This resource contains solutions of guessing a particular solution
   linear recurrences. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-042j-mathematics-for-computer-science-fall-2010/b6c5cecb1804b69a6ad12245303f2af3_MIT6_042JF10_rec14_sol.pdf
 file_type: application/pdf
+parent_uid: 088adbb7-d512-5527-c5ec-766f9536ea40
 resourcetype: Document
 title: MIT6_042JF10_rec14_sol.pdf
 uid: b6c5cecb-1804-b69a-6ad1-2245303f2af3
